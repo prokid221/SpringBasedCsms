@@ -8,8 +8,10 @@ public class StartMatch {
 		//starting a game required two teams and their players
 		//game init()
 		//Game start()
-		//Game details()
 		
+		//Announce winners
+		
+		//Game details()
 	}
 
 }
